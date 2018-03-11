@@ -1,0 +1,8 @@
+count positive :  177
+count negative : 23
+False Negatives : 0.115
+testing for 0 is : 88.5
+count positive :  19
+count negative : 181
+False positive : 0.095
+testing for 1 is : 90.5
